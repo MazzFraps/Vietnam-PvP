@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vietnam_pvp.CSharp", "Vietnam_pvp.CSharp.csproj", "{F9BA5E77-646D-06F8-7E68-89D08F8F2D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BA5E77-646D-06F8-7E68-89D08F8F2D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BA5E77-646D-06F8-7E68-89D08F8F2D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BA5E77-646D-06F8-7E68-89D08F8F2D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BA5E77-646D-06F8-7E68-89D08F8F2D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
